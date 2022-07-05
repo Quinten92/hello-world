@@ -32,7 +32,8 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> Khac Quynh DevOps test build maven file war deploy to apache tomcat server </h1>
+   <h1> Khac Quynh  test build maven file war deploy to apache tomcat server </h1>
+   <h2> Jenkins test build pull scm by schedule every second if have any new commit </h2>
 
   
 </form>
