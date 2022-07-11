@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register </h1>
-    <p>Author: Khắc Quỳnh DevOps</p>
+    <p>Author: Khac Quynh 2022</p>
     <p>Please fill in this form to create an account.</p>
   
     <hr>
